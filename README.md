@@ -5,6 +5,13 @@
 
 Awesome Notes App 是一个简洁高效的笔记管理应用，支持多端同步，助你轻松记录灵感、待办事项和工作笔记。
 ---
+## 📸 截图预览
+
+![背景](/background.png)
+
+![图片](http://gips3.baidu.com/it/u=3476243082,1256047914&fm=3028&app=3028&f=JPEG&fmt=auto?w=2048&h=2048)
+
+
 ## 🚀 功能特点
 
 - ✍️ 支持 Markdown 格式编辑
@@ -47,32 +54,5 @@ body {
 <head>
   <meta charset="UTF-8">
 
----
-## 📦 技术栈
 
-- 后端：Node.js + Express + MongoDB
- - Node.js：基于 Chrome V8 引擎的 JavaScript 运行环境
-- 其他：Axios、Marked、Prism.js
-- 前端：Vue 3 + Vite + Pinia + Tailwind CSS
-  - Vue 3：渐进式 JavaScript 框架
 
----
-## 📸 截图预览
-
-![背景](/background.png)
-
-![图片](http://gips3.baidu.com/it/u=3476243082,1256047914&fm=3028&app=3028&f=JPEG&fmt=auto?w=2048&h=2048)
-
----
-## 🛠️ 安装步骤
-
-```bash
-# 克隆项目
-git clone https://github.com/yourname/awesome-notes-app.git
-
-# 安装依赖
-yarn add
-npm install -g
-
-# 启动项目
-npm run dev
