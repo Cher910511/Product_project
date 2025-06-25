@@ -20,7 +20,8 @@
 
 ## 📸 截图预览
 
-![截图](https://via.placeholder.com/600x300.png?text=App+Preview)
+![背景](/background.png)
+![截图](http://gips0.baidu.com/it/u=1690853528,2506870245&fm=3028&app=3028&f=JPEG&fmt=auto?w=1024&h=1024)
 
 ## 🛠️ 安装步骤
 
