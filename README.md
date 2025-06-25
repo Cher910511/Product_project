@@ -9,14 +9,14 @@
 - ✍️ 支持 Markdown 格式编辑
 - 🌙 黑暗模式切换
 - 🔍 笔记全文搜索
-- ☁️ 云端同步（支持 Gitee / GitHub）
+- ☁️ 云端同步（支持 GitHub）
 - 🔐 私密笔记加密存储
 
 ## 📦 技术栈
 
-- 前端：Vue 3 + Vite + Pinia + Tailwind CSS
 - 后端：Node.js + Express + MongoDB
 - 其他：Axios、Marked、Prism.js
+- 前端：Vue 3 + Vite + Pinia + Tailwind CSS
 
 ## 📸 截图预览
 
