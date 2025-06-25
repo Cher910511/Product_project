@@ -7,6 +7,10 @@ Awesome Notes App 是一个简洁高效的笔记管理应用，支持多端同�
 ---
 ## 📸 截图预览
 
+[百度](https://www.baidu.com)
+
+[百度](https://www.baidu.com)
+
 ![背景](/background.png)
 
 ![图片](http://gips3.baidu.com/it/u=3476243082,1256047914&fm=3028&app=3028&f=JPEG&fmt=auto?w=2048&h=2048)
@@ -34,6 +38,7 @@ Awesome Notes App 是一个简洁高效的笔记管理应用，支持多端同�
 - [x] 已完成任务
 
 _123_
+
 _123_
 
 - 项目一
